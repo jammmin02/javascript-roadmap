@@ -31,7 +31,7 @@ dist/
 build/
 .cache/
 .parcel-cache/
-.node_modules/
+node_modules/
 
 # 이미지 파일
 *.png
